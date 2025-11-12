@@ -1,11 +1,12 @@
 # Introduction
-N/A
+
+This project provides a developer interface for initiating a livestream (live view)
+for a Blink Smart Security camera.
 
 # Usage
-N/A
 
-# Requirements & Dependencies
-N/A
+TODO
 
-# Previews
-![preview image](https://via.placeholder.com/350x240)
+# Dependencies
+
+Aside from Go 1.23+, this project has no external dependencies.
