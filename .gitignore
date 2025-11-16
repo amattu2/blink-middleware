@@ -1,7 +1,6 @@
 vendor/
 bin/
 docs/
-cmd/
 
 *.ini
 *.gch
